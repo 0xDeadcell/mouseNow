@@ -5,4 +5,4 @@ Allows the user to view the X/Y position of their mouse, rgb value, monitor reso
   Drop mouseNow.py in a command prompt and hit enter, the script captures mouse updates with windows dll's and the msvcrt module for keypresses.
   Once you are satisfied with the location/color your mouse is hovering over you may copy it to your clipboard with the F2 and F3 keys, respectively.
 
-*Additionally I have not tested this with multiple monitors yet so I'm not sure how it will react.*
+*I have not tested this with multiple monitors yet so I'm not sure how it will react.*
