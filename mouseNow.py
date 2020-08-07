@@ -11,6 +11,7 @@ def get_cursor():
 
 def get_resolution():
     # Returns monitor height & width
+    windll.user32.SetProcessDPIAware()
     return win32api.GetSystemMetrics(0), win32api.GetSystemMetrics(1)
 
 
