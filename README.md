@@ -7,7 +7,7 @@
 
 <b> SETUP: </b>
   
-    python -m pip install -r requirements.txt
+    python -m pip -r install requirements.txt
     
 <b> RUN: </b>
     
